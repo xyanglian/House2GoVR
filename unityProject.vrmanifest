@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.house2go.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\cyang\\Desktop\\VR\\House2Go\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "House2Go [Testing]"
+        }
+      }
+    }
+  ]
+}
